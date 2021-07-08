@@ -1,0 +1,4 @@
+[submodule "front-end"]
+	path = front-end
+	url = git@github.com:jacobq/tauri-hello-world-front-end.git
+	branch = main
